@@ -3,7 +3,7 @@
 <img align="right" width="230" src="https://media.tenor.com/8f2pYcF9zW4AAAAM/anime-wave.gif">
 
 - 📚 Atualmente estou estudando: HTML, CSS, JavaScript, Git e GitHub
-- 📺 Gosto de assistir Animes, Séries, Filmes e algums vezes Doramas
+- 📺 Gosto de assistir Animes, Séries, Filmes e algumas vezes Doramas
 - 📫 Contato: [Linkedin](https://www.linkedin.com/in/daniel-de-moura-silva-a123a724b/)
 
 </br>
@@ -20,10 +20,8 @@
 -->
 
 <p>
-  👨‍💻 Oi Dev, eu sou o Daniel e tenho 24 anos, eu conheço o mundo da programação desde 2016, quando eu estava fazendo o curso técnico de informática na ETEC(Escola Técnica Estadual) onde eu fiz meu TCC utilizando a linguagem Java, mas depois quando terminei fiquei perdido sem saber que caminho seguir, então eu acabei parando com a programação, mas nesse ano de 2022 meu entusiasmo com a programação voltou, e voltei a estudar programação, só que agora o meu objetivo é estudar e trabalhar nessa área, porque agora eu tenho uma visão mais clara de qual caminho seguir e como chegar até lá.
+👨‍💻 Oi Dev, eu sou o Daniel e tenho 24 anos, eu conheço o mundo da programação desde 2016, quando eu estava fazendo o curso técnico de informática na ETEC(Escola Técnica Estadual) onde eu fiz meu TCC utilizando a linguagem Java, porém quando eu terminei fiquei perdido sem saber que caminho seguir, então eu acabei parando com a programação.
 </p>
-
-</br>
 
 <div>
   <img width="300" src="https://media.tenor.com/7NuUEfEvHWoAAAAd/yato.gif">
@@ -33,10 +31,18 @@
 </br>
 
 <p>
+Mas nesse ano de 2022 meu entusiasmo com a programação voltou, e voltei a estudar programação, só que agora o meu objetivo é estudar e trabalhar nessa área, porque agora eu tenho uma visão mais clara de qual caminho seguir e como chegar até lá.
+</p>
+
+</br>
+</br>
+
+<p>
+  <img align="right" width="300" src="https://media.tenor.com/gFxciA3US0gAAAAM/noragami-anime.gif)">
   💬 Se por acaso for entrar em contato comigo pelo Linkedin já peço desculpa se eu demorar para responder, diferente da maioria das pessoas, eu não só alguém que adora ficar nas redes sociais como: Facebook, Twitter e Instagram, mas como o Linkedin é uma rede para trabalho, então tem mais chances de eu entrar com mais frequência.
 </p>
-<img width="300" src="https://media.tenor.com/gFxciA3US0gAAAAM/noragami-anime.gif)">
 
+</br>
 </br>
 
 ## 🖥️&nbsp; Ferramentas e Tecnologias que eu utilizo:
@@ -60,7 +66,7 @@
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldemoura&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danieldemoura/danieldemoura/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
