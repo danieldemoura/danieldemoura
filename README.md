@@ -1,6 +1,9 @@
 # Daniel de Moura
+</br>
 
-<img align="right" width="230" src="https://media.tenor.com/8f2pYcF9zW4AAAAM/anime-wave.gif">
+<div>
+  <img align="right" width="230" src="https://media.tenor.com/8f2pYcF9zW4AAAAM/anime-wave.gif">
+</div>
 
 - 📚 Atualmente estou estudando: HTML, CSS, JavaScript, Git e GitHub
 - 📺 Gosto de assistir Animes, Séries, Filmes e algumas vezes Doramas
