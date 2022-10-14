@@ -1,6 +1,6 @@
 # Daniel de Moura
 
-<img align="right" src="https://media.tenor.com/8f2pYcF9zW4AAAAM/anime-wave.gif">
+<img align="right" width="230" src="https://media.tenor.com/8f2pYcF9zW4AAAAM/anime-wave.gif">
 
 - 📚 Atualmente estou estudando: HTML, CSS, JavaScript, Git e GitHub
 - 📺 Gosto de assistir Animes, Séries, Filmes e algums vezes Doramas
@@ -15,7 +15,9 @@
 
 ## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Dev
 
+<!--
 <img align="right" width="300px" src="https://i.ibb.co/my1PZmt/octocat-1665714641175.png">
+-->
 
 <p>
   👨‍💻 Oi Dev, eu sou o Daniel e tenho 24 anos, eu conheço o mundo da programação desde 2016, quando eu estava fazendo o curso técnico de informática na ETEC(Escola Técnica Estadual) onde eu fiz meu TCC utilizando a linguagem Java, mas depois quando terminei fiquei perdido sem saber que caminho seguir, então eu acabei parando com a programação, mas nesse ano de 2022 meu entusiasmo com a programação voltou, e voltei a estudar programação, só que agora o meu objetivo é estudar e trabalhar nessa área, porque agora eu tenho uma visão mais clara de qual caminho seguir e como chegar até lá.
@@ -24,7 +26,7 @@
 </br>
 
 <div>
-  <img width="300" src="https://media.tenor.com/7NuUEfEvHWoAAAAd/yato.gif">&nbsp; &nbsp;
+  <img width="300" src="https://media.tenor.com/7NuUEfEvHWoAAAAd/yato.gif">
   <img width="300" src="https://media.tenor.com/JFbsUkag74oAAAAM/noragami-yato.gif">
 </div>
 
