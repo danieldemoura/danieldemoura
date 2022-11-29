@@ -42,7 +42,7 @@ Mas nesse ano de 2022 meu entusiasmo com a programação voltou, e voltei a estu
 
 <p>
   <img align="right" width="300" src="https://media.tenor.com/gFxciA3US0gAAAAM/noragami-anime.gif)">
-  💬 Se por acaso for entrar em contato comigo pelo Linkedin já peço desculpa se eu demorar para responder, diferente da maioria das pessoas, eu não só alguém que adora ficar nas redes sociais como: Facebook, Twitter e Instagram, mas como o Linkedin é uma rede para trabalho, então tem mais chances de eu entrar com mais frequência.
+  💬 Se por acaso for entrar em contato comigo pelo Linkedin já peço desculpa se eu demorar para responder, diferente da maioria das pessoas, eu não sou aquelas pessoas que adora ficar nas redes sociais como: Facebook, Twitter e Instagram, mas como o Linkedin é uma rede para trabalho, então tem mais chances de eu entrar com mais frequência.
 </p>
 
 </br>
