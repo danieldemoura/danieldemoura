@@ -23,7 +23,7 @@
 -->
 
 <p>
-👨‍💻 Oi Dev, eu sou o Daniel e tenho 24 anos, eu conheço o mundo da programação desde 2016, quando eu estava fazendo o curso técnico de informática na ETEC(Escola Técnica Estadual) onde eu fiz meu TCC utilizando a linguagem Java, porém quando eu terminei fiquei perdido sem saber que caminho seguir, então eu acabei parando com a programação.
+👨‍💻 Oi Dev, eu sou o Daniel e tenho 25 anos, eu conheço o mundo da programação desde 2016, quando eu estava fazendo o curso técnico de informática na ETEC(Escola Técnica Estadual) onde eu fiz meu TCC utilizando a linguagem Java, porém quando eu terminei fiquei perdido sem saber que caminho seguir, então eu acabei parando com a programação.
 </p>
 
 <div>
