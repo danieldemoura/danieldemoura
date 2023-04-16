@@ -58,11 +58,6 @@ Mas nesse ano de 2022 meu entusiasmo com a programação voltou, e voltei a estu
 
 </br>
 
-## 📚☕ &nbsp;Estou Aprendendo:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-
 ##
 <p align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=danieldemoura&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
