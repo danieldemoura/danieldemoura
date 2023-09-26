@@ -5,6 +5,8 @@
   <img align="right" width="230" src="https://media.tenor.com/8f2pYcF9zW4AAAAM/anime-wave.gif">
 </div>
 
+</br>
+
 - 📚 Atualmente estou estudando: HTML, CSS, JavaScript, Git e GitHub
 - 📺 Gosto de assistir Animes, Séries, Filmes e algumas vezes Doramas
 - 📫 Contato: [Linkedin](https://www.linkedin.com/in/daniel-de-moura-silva-a123a724b/)
@@ -63,9 +65,6 @@ Mas nesse ano de 2022 meu entusiasmo com a programação voltou, e voltei a estu
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=danieldemoura&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldemoura&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
-
-![Snake animation](https://github.com/danieldemoura/danieldemoura/blob/output/github-contribution-grid-snake.svg)
-
 
 <!--
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=danieldemoura&layout=wide&show_reply=off&show_retweet=off" />
