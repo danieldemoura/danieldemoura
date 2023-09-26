@@ -7,7 +7,7 @@
 
 </br>
 
-- 📚 Atualmente estou estudando: HTML, CSS, JavaScript, Git e GitHub
+- 📚 Atualmente estou estudando: ReactJS
 - 📺 Gosto de assistir Animes, Séries, Filmes e algumas vezes Doramas
 - 📫 Contato: [Linkedin](https://www.linkedin.com/in/daniel-de-moura-silva-a123a724b/)
 
