@@ -1,54 +1,20 @@
 # Daniel de Moura
-</br>
-
-<div>
-  <img align="right" width="230" src="https://media.tenor.com/8f2pYcF9zW4AAAAM/anime-wave.gif">
-</div>
 
 </br>
 
-- 📚 Atualmente estou estudando: ReactJS
+- 📚 Atualmente estou estudando: ReactJS, Tailwind
 - 📺 Gosto de assistir Animes, Séries, Filmes e algumas vezes Doramas
 - 📫 Contato: [Linkedin](https://www.linkedin.com/in/daniel-de-moura-silva-a123a724b/)
 
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
+
 
 ## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Dev
 
-<!--
-<img align="right" width="300px" src="https://i.ibb.co/my1PZmt/octocat-1665714641175.png">
--->
-
 <p>
-👨‍💻 Oi Dev, eu sou o Daniel e tenho 25 anos, eu conheço o mundo da programação desde 2016, quando eu estava fazendo o curso técnico de informática na ETEC(Escola Técnica Estadual) onde eu fiz meu TCC utilizando a linguagem Java, porém quando eu terminei fiquei perdido sem saber que caminho seguir, então eu acabei parando com a programação.
+👨‍💻 Oi Dev, eu sou o Daniel e tenho 23 anos, eu conheço o mundo da programação desde 2016, quando eu estava fazendo o curso técnico de informática na ETEC onde eu fiz meu TCC utilizando a linguagem Java, porém quando eu terminei fiquei perdido sem saber que caminho seguir, então eu acabei parando com a programação, atualmente stou fazendo Ciências da Computação.
 </p>
-
-<div>
-  <img width="300" src="https://media.tenor.com/7NuUEfEvHWoAAAAd/yato.gif">
-  <img width="300" src="https://media.tenor.com/JFbsUkag74oAAAAM/noragami-yato.gif">
-</div>
-
-</br>
-
-<p>
-Mas nesse ano de 2022 meu entusiasmo com a programação voltou, e voltei a estudar programação, só que agora o meu objetivo é estudar e trabalhar nessa área, porque agora eu tenho uma visão mais clara de qual caminho seguir e como chegar até lá.
-</p>
-
-</br>
-</br>
-
-<p>
-  <img align="right" width="300" src="https://media.tenor.com/gFxciA3US0gAAAAM/noragami-anime.gif)">
-  💬 Se por acaso for entrar em contato comigo pelo Linkedin já peço desculpa se eu demorar para responder, diferente da maioria das pessoas, eu não sou aquelas pessoas que adora ficar nas redes sociais como: Facebook, Twitter e Instagram, mas como o Linkedin é uma rede para trabalho, então tem mais chances de eu entrar com mais frequência.
-</p>
-
-</br>
-</br>
 
 ## 🖥️&nbsp; Ferramentas e Tecnologias que eu utilizo:
 
