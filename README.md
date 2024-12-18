@@ -2,9 +2,17 @@
 
 </br>
 
-- 📚 Atualmente estou estudando: ReactJS, Tailwind
+- 📚 Atualmente estou estudando: Tailwindcss
 - 📺 Gosto de assistir Animes, Séries, Filmes e algumas vezes Doramas
 - 📫 Contato: [Linkedin](https://www.linkedin.com/in/daniel-de-moura-silva-a123a724b/)
+- Hardskills
+  - HTML
+  - CSS
+  - Javascript
+  - ReactJs
+  - Tailwindcss
+  - Git
+  - Conhecimento básico em inglês
 
 </br>
 </br>
@@ -15,14 +23,6 @@
 <p>
 👨‍💻 Oi Dev, eu sou o Daniel e tenho 23 anos, eu conheço o mundo da programação desde 2016, quando eu estava fazendo o curso técnico de informática na ETEC onde eu fiz meu TCC utilizando a linguagem Java, porém quando eu terminei fiquei perdido sem saber que caminho seguir, então eu acabei parando com a programação, atualmente stou fazendo Ciências da Computação.
 </p>
-
-## 🖥️&nbsp; Ferramentas e Tecnologias que eu utilizo:
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
 </br>
 
