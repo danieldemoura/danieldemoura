@@ -12,7 +12,6 @@
   - ReactJs
   - Tailwindcss
   - Git
-  - Conhecimento básico em inglês
 
 </br>
 </br>
