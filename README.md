@@ -20,7 +20,7 @@
 ## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Dev
 
 <p>
-👨‍💻 Oi Dev, eu sou o Daniel e tenho 23 anos, eu conheço o mundo da programação desde 2016, quando eu estava fazendo o curso técnico de informática na ETEC onde eu fiz meu TCC utilizando a linguagem Java, porém quando eu terminei fiquei perdido sem saber que caminho seguir, então eu acabei parando com a programação, atualmente stou fazendo Ciências da Computação.
+👨‍💻 Oi Dev, eu sou o Daniel e eu conheço o mundo da programação desde 2016, quando eu estava fazendo o curso técnico de informática na ETEC onde eu fiz meu TCC utilizando a linguagem Java, porém quando eu terminei fiquei perdido sem saber que caminho seguir, então eu acabei parando com a programação, atualmente stou fazendo Ciências da Computação.
 </p>
 
 </br>
