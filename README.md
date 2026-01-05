@@ -2,8 +2,7 @@
 
 </br>
 
-- 📚 Atualmente estou estudando: Tailwindcss
-- 📺 Gosto de assistir Animes, Séries, Filmes e algumas vezes Doramas
+- 📚 Atualmente estou estudando o Payload CMS Headless
 - 📫 Contato: [Linkedin](https://www.linkedin.com/in/daniel-de-moura-silva-a123a724b/)
 - Hardskills
   - HTML
@@ -11,6 +10,7 @@
   - Javascript
   - ReactJs
   - Tailwindcss
+  - TypeScript
   - Git
 
 </br>
@@ -20,7 +20,7 @@
 ## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Dev
 
 <p>
-👨‍💻 Oi Dev, eu sou o Daniel e eu conheço o mundo da programação desde 2016, quando eu estava fazendo o curso técnico de informática na ETEC onde eu fiz meu TCC utilizando a linguagem Java, porém quando eu terminei fiquei perdido sem saber que caminho seguir, então eu acabei parando com a programação, atualmente stou fazendo Ciências da Computação.
+👨‍💻 Oi Dev, eu sou o Daniel e eu conheço o mundo da programação desde 2016, quando eu estava fazendo o curso técnico de informática na ETEC onde eu fiz meu TCC utilizando a linguagem Java, porém quando eu terminei fiquei perdido sem saber que caminho seguir, então eu acabei parando com a programação, mas voltei e atualmente estou cursando Ciências da Computação, no meu tempo livre continuo estudando programção e criando meus projetos pessoais com o que aprendi.
 </p>
 
 </br>
