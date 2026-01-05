@@ -25,12 +25,6 @@
 
 </br>
 
-##
-<p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=danieldemoura&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldemoura&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
-
 <!--
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=danieldemoura&layout=wide&show_reply=off&show_retweet=off" />
 
