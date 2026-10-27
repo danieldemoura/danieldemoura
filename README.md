@@ -10,7 +10,7 @@ Sou estudante de Ciência da Computação. Concluí o curso técnico em Informá
 
 ## Tecnologias principais
 - Front‑end: React, Tailwind CSS, HTML5, CSS3  
-- Linguagens: TypeScript, JavaScript, Python  
+- Linguagens: TypeScript, JavaScript
 - Ferramentas: Git, GitHub, VS Code, Vercel  
 - Conceitos: componentização, consumo de APIs, responsividade, boas práticas de versionamento
 
